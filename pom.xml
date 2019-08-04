@@ -41,6 +41,7 @@
 					<jmeterExtensions>
 						<!-- 本地自己写的jar -->
 						<artifact>com.lemon:encryption:0.0.1-SNAPSHOT</artifact>
+						<artifact>com.lemon.jsonutil:lemonjsonpath:0.0.1-SNAPSHOT</artifact>
 					</jmeterExtensions>
 					<!-- 设置jmeter生成结果文件格式 -->
 					<resultsFileFormat>xml</resultsFileFormat>
